@@ -1,6 +1,6 @@
 # Harsh Patel — personal website
 
-Live site: https://Harsh3261.github.io
+Live site: https://Harsh3261.github.io/harsh-patel/
 
 Publish date: 2026-11-01
 
