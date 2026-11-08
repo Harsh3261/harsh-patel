@@ -12,3 +12,4 @@ Future updates: Replace index.html and commit with a descriptive message.
 - Hero: pressure gauge replaced by an SPC hone-bore monitor (individuals control chart, hone bore Ø 4.500/4.505 in, spec and control limits, Cp/Cpk, out-of-spec points shown red).
 - Hero portrait replaced with a new photo provided by Harsh (4:5 crop); LinkedIn caption removed.
 - Published from Muse after Harsh approved the preview; verified live after the Pages build.
+- Update (2026-11-08): SPC batch button changed from Run 10 to Run 25 parts — 25 readings is the standard minimum sample for trustworthy control limits and Cpk.
